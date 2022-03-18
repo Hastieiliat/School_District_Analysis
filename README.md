@@ -20,3 +20,9 @@ Average reading score
 Percentage of students who passed math
 Percentage of students who passed reading
 Overall passing percentage
+
+
+ # To get the passing percentages, we need to:
+ # 1. Determine what is the passing grade.
+ # 2. Get the number of students who passed math and reading.
+ # 3. Get the students who passed math and passed reading
